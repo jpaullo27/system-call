@@ -1,5 +1,6 @@
 # System Call
-
+**AUTOR**: `Thalysson Delano Borges Ferreira`
+**AUTOR**: `João Paulo Lopes da Silva`
 Este projeto simula comandos básicos de um terminal Linux. Abaixo estão as instruções para usar os comandos disponíveis:
 
 ## Comandos disponíveis:
