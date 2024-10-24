@@ -14,4 +14,4 @@ Este projeto simula comandos básicos de um terminal Linux. Abaixo estão as ins
 - **clear** - Limpa a tela.
 
 Esses comandos simulam funcionalidades essenciais para manipulação de arquivos e diretórios.
-Infelizme funcionalidades como CD não foram implementadas, focando apenas na manipulação, criação, remoção, edição e leitura de arquivos.
+Infelizme, funcionalidades como CD não foram implementadas, focando apenas na manipulação, criação, remoção, edição e leitura de arquivos.
